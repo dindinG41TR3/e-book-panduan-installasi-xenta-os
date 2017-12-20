@@ -1,0 +1,3 @@
+# Mengenal Xenta OS {#mengenal-xenta-os}
+
+Xenta OS merupakan Distro GNU/Linux yang di distribusikan untuk Lokal Indonesia khususnya. Xenta OS merupakan sistem operasi berkernel linux yang dibangun dari berbagai perangkat lunak bebas (freesoftware), perangkat lunak khas (software khas distro xenta os) dan sedikit tambahan perangkat lunak tidak bebas (non-free). Untuk Mengenal Lebih Lengkapnya diuraikan sebagai berikut :

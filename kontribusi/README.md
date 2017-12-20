@@ -1,0 +1,3 @@
+# Kontribusi {#kontribusi}
+
+Proyek Xenta OS menerima banyak dukungan dari masyarakat yang pengguna dan kami ingin mengucapkan terima kasih setiap kontributor untuk berpartisipasi. Kita tumbuh cepat dan distribusi kami semakin baik setiap hari terima kasih kepada Anda. Hal ini sangat mudah untuk membuat perbedaan. Tergantung pada keahlian Anda, ketersediaan Anda, dan pada kekayaan Anda, Anda dapat membantu Xenta OS dalam satu atau lebih dari cara berikut:
