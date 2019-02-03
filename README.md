@@ -1,5 +1,5 @@
 # E-Book Panduan Installasi Xenta OS {#e-book-panduan-installasi-xenta-os}
-
+...
 ![](export/assets/image39.png)
 
 ![](export/assets/image75.png)
